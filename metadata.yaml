@@ -1,0 +1,26 @@
+_repo: A-First-Book-in-Writing-English_62265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Edwin Herbert
+    alias: Lewis, E. H. (Edwin Herbert)
+    birthdate: 1866
+    deathdate: 1938
+    gutenberg_agent_id: '50046'
+    url: http://www.gutenberg.org/2009/agents/50046
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62265'
+  lccn: '10033771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Composition and exercises'
+- !lcc 'PE'
+- GITenberg
+title: A First Book in Writing English
+url: http://www.gutenberg.org/ebooks/62265
